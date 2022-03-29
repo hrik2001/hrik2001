@@ -1,4 +1,4 @@
-### Hi there, I am Rik👋
+### Hi there, I am Shatabarto "Rik" Bhattacharya👋
 So everyone is doing `README.md` for their github, so here I am, hopping on the bandwagon.    
 DevOps, Blockchain, ML/DL, Music Production are few of the things that tickle my creative bone.    
 I am pretty active on twitter, so hmu there if you want.     
